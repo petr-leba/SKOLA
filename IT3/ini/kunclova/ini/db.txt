@@ -1,0 +1,11 @@
+[mysql]
+host = lilinecka
+user = kopretinka
+passwd = maslo
+db = ydb
+
+[postgresql]
+host = koala
+user = santa
+passwd = hoe
+db = testdb

@@ -1,0 +1,139 @@
+.myBackground {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(100, 100, 100, 0.5)), url(wallpaper.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.myShowcaseDiv {
+    transition: ease-in-out 200ms !important;
+    bottom: 0px;
+    box-shadow: 0 0 0px transparent;
+}
+
+.myShowcaseDiv:hover {
+    bottom: 8px;
+    scale: 1.02;
+}
+
+.myShowcaseDivBlue:hover {
+    box-shadow: 0 8px 12px rgba(13, 110, 253, 0.6);
+}
+
+.myShowcaseDivYellow:hover {
+    box-shadow: 0 8px 12px rgba(255, 193, 7, 0.6);
+}
+
+.myShowcaseDivGreen:hover {
+    box-shadow: 0 8px 12px rgba(25, 135, 84, 0.6);
+}
+
+.myShowcaseDivRed:hover {
+    box-shadow: 0 8px 12px rgba(220, 53, 69, 0.6);
+}
+
+.myMainText {
+    font-size: 250% !important;
+}
+
+@media (min-width: 576px) {
+    .myMainText {
+        font-size: 250% !important;
+    }
+}
+@media (min-width: 768px) {
+    .myMainText {
+        font-size: 350% !important;
+    }
+}
+@media (min-width: 992px) {
+    .myMainText {
+        font-size: 400% !important;
+    }
+}
+@media (min-width: 1200px) {
+    .myMainText {
+        font-size: 450% !important;
+    }
+}
+@media (min-width: 1400px) {
+    .myMainText {
+        font-size: 500% !important;
+    }
+}
+
+.recenzeDiv {
+    transition: ease-in-out 140ms !important;
+    box-shadow: 0 0 0px transparent !important;
+}
+
+.recenzeDiv:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
+}
+
+.myFotoBg {
+    transition: ease-in-out 300ms !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    height: 250px !important;
+    bottom: 0px !important;
+    box-shadow: 0 0 0px transparent !important;
+}
+
+.myFotoBg:hover {
+    bottom: 10px !important;
+    box-shadow: 0 8px 10px rgba(100, 100, 100, 0.75) !important;
+}
+
+.myFoto-1 {
+    background: url("pervitin.jpg");
+}
+
+.myFoto-2 {
+    background: url("pervitin.jpg");
+}
+
+.myFoto-3 {
+    background: url("pervitin.jpg");
+}
+
+.myFoto-4 {
+    background: url("pervitin.jpg");
+}
+
+@media (min-width: 576px) {
+    .myFotoBg {
+        height: 250px !important;
+    }
+}
+@media (min-width: 768px) {
+    .myFotoBg {
+        height: 280px !important;
+    }
+}
+@media (min-width: 992px) {
+    .myFotoBg {
+        height: 300px !important;
+    }
+}
+@media (min-width: 1200px) {
+    .myFotoBg {
+        height: 400px !important;
+    }
+}
+@media (min-width: 1400px) {
+    .myFotoBg {
+        height: 400px !important;
+    }
+}
+
+.hoverOverlay {
+    transition: ease-in-out 200ms !important;
+    font-size: 200%;
+    opacity: 0 !important;
+}
+
+.hoverOverlay:hover {
+    opacity: 0.85 !important;
+}

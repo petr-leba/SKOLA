@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-3 col-md-6 col-sm-12">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Sloupec 1</h5>
+          <p class="card-text">Obsah sloupce 1</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 col-sm-12">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Sloupec 2</h5>
+          <p class="card-text">Obsah sloupce 2</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 col-sm-12">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Sloupec 3</h5>
+          <p class="card-text">Obsah sloupce 3</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 col-sm-12">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Sloupec 4</h5>
+          <p class="card-text">Obsah sloupce 4</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

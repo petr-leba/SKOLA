@@ -1,0 +1,12 @@
+CREATE DATABASE ajora CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'ajora'@'localhost' IDENTIFIED BY 'ajora123.';
+GRANT ALL PRIVILEGES ON ajora.* TO 'ajora'@'localhost' WITH GRANT OPTION;
+CREATE DATABASE efwefer CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'efwefer'@'localhost' IDENTIFIED BY 'efwefer123.';
+GRANT ALL PRIVILEGES ON efwefer.* TO 'efwefer'@'localhost' WITH GRANT OPTION;
+CREATE DATABASE asfesadf CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'asfesadf'@'localhost' IDENTIFIED BY 'asfesadf123.';
+GRANT ALL PRIVILEGES ON asfesadf.* TO 'asfesadf'@'localhost' WITH GRANT OPTION;
+CREATE DATABASE yddsfdzh CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'yddsfdzh'@'localhost' IDENTIFIED BY 'yddsfdzh123.';
+GRANT ALL PRIVILEGES ON yddsfdzh.* TO 'yddsfdzh'@'localhost' WITH GRANT OPTION;
