@@ -11,9 +11,9 @@
 > textový řetězec "sudé číslo" / "liché číslo"
 
 **algoritmus / indicie pro řešení:**
-> * sudé číslo má po dělení 2 zbytek 0
->
-> * zbytek po dělení se vypočte pomocí %
+
+* sudé číslo má po dělení 2 zbytek 0
+* zbytek po dělení se vypočte pomocí %
 
 **procvičí**
 > cokoliv
@@ -23,4 +23,5 @@
 
 **možnosti rozvíjení zadání**
 > cokoliv
-### Tobogán
+
+### **Tobogán** - *obtížnost: 1* 
