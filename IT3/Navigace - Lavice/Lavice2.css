@@ -1,0 +1,9 @@
+.topnav {
+    background-color: #4CAF50; /* zelená barva */
+    color: white; /* bílá barva */
+  }
+  
+  .topnav a:hover {
+    background-color: #555; /* tmavě šedá barva */
+    color: white;
+  }

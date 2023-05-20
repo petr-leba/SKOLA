@@ -1,0 +1,9 @@
+.tablink {
+    background-color: #4CAF50; /* zelená barva */
+    color: white; /* bílá barva */
+  }
+  
+  .active {
+    background-color: #555; /* tmavě šedá barva */
+    color: white;
+  }

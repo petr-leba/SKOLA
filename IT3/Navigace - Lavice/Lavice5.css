@@ -1,0 +1,12 @@
+.breadcrumb {
+    background-color: #4CAF50; /* zelená barva */
+    color: white; /* bílá barva */
+  }
+  
+  .breadcrumb a {
+    color: white;
+  }
+  
+  .breadcrumb a:hover {
+    color: yellow; /* žlutá barva */
+  }

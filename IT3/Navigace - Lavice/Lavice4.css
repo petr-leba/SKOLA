@@ -1,0 +1,10 @@
+.pagination {
+    display: inline-block;
+    background-color: #4CAF50; /* zelená barva */
+    color: white; /* bílá barva */
+  }
+  
+  .pagination a:hover {
+    background-color: #555; /* tmavě šedá barva */
+    color: white;
+  }
