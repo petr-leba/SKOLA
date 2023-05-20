@@ -4,12 +4,14 @@ class Misto:
         self.popis = popis
         self.okoli = okoli
 
+
 class Postava:
     def __init__(self, jmeno, popis, stav, misto):
         self.jmeno = jmeno
         self.popis = popis
         self.stav = stav
         self.misto = misto
+
 
 misto1 = Misto("Domov", "Toto je tvůj domov", {"north": None, "south": None, "west": None, "east": "misto2"})
 misto2 = Misto("Les", "Nacházíš se v hustém lese", {"north": None, "south": None, "west": "misto1", "east": "misto3"})

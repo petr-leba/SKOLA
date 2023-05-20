@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../xampp/htdocs/it4"
+		},
+		{
+			"path": "../../JUPYTER"
+		},
+		{
+			"path": "../../../xampp/htdocs/doucovani/blog"
+		},
+		{
+			"path": "../../DOUCOVANI/python-semestr"
+		},
+		{
+			"path": "../../../xampp/htdocs/doucovani/uzivatele"
+		}
+	],
+	"settings": {}
+}
